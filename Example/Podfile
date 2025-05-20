@@ -1,0 +1,6 @@
+use_frameworks!
+target 'libforkmp_Tests' do
+  pod 'libforkmp', :path => '../'
+  
+  
+end
